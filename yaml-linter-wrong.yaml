@@ -1,5 +1,5 @@
 apiVersion: tekton.dev/v1beta1
---- kind: TaskRun
+kind: TaskRun
 metadata:
   generateName: tekton-dog-facts-run-
   namespace: felicia-eng-tekton-catalog-assignment
